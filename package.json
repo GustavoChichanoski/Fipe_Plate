@@ -1,0 +1,23 @@
+{
+  "name": "fipe",
+  "version": "1.0.0",
+  "description": "Salva placas de veiculos em json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "fipe"
+  },
+  "keywords": [
+    "\"\"fipe\"",
+    "\"python\""
+  ],
+  "author": "Gustavo Chichanoski",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sinesp-api": "^2.0.2"
+  }
+}
